@@ -9,11 +9,6 @@
 
 
 
-
-
-
-<img src="" alt="Sentiment Analysis" align="center" />
-
 ## Overview
 
 This Streamlit application, titled "Sentiment Snack: Bite-Sized Insights into Textual Emotions," allows users to analyze the sentiment and subjectivity of text inputs.
