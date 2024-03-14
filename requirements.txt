@@ -4,3 +4,4 @@ pandas
 pydeck
 streamlit
 textblob==0.15.3
+cleantext==1.1.3
