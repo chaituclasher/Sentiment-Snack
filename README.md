@@ -51,5 +51,5 @@ This Streamlit application, titled "Sentiment Snack: Bite-Sized Insights into Te
 
 ## Try it Out!
 
-Give it a try by clicking on Try Now !
+Give it a try by clicking on Try Now !   
 [![Explore Sentiment Snack](https://img.shields.io/badge/Explore%20Sentiment%20Snack-Try%20Now-9cf?style=for-the-badge&logo=streamlit&logoColor=white)](https://sentiment-snack.streamlit.app/)
