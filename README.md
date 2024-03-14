@@ -3,7 +3,7 @@
 
 
 
-[![Explore Sentiment Snack](https://img.shields.io/badge/Explore%20Sentiment%20Snack-Try%20Now-9cf?style=for-the-badge&logo=streamlit)](https://sentiment-snack.streamlit.app/)
+[![Explore Sentiment Snack](https://img.shields.io/badge/Explore%20Sentiment%20Snack-Try%20Now-9cf?style=for-the-badge&logo=streamlit&logoColor=white)](https://sentiment-snack.streamlit.app/)
 
 
 
