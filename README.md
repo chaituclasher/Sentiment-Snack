@@ -1,11 +1,11 @@
 # Sentiment Analysis 
 
 
-[![Try Sentiment Snack](https://img.shields.io/badge/Try%20Sentiment%20Snack-Explore%20Now-orange)](https://sentiment-snack.streamlit.app/)
 
-## Overview
 
-This Streamlit application, titled "Sentiment Snack: Bite-Sized Insights into Textual Emotions," allows users to analyze the sentiment and subjectivity of text inputs.
+[![Explore Sentiment Snack](https://img.shields.io/badge/Explore%20Sentiment%20Snack-Try%20Now-9cf?style=for-the-badge&logo=streamlit)](https://sentiment-snack.streamlit.app/)
+
+
 
 
 
