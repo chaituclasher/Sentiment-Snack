@@ -11,7 +11,8 @@
 
 ## Overview
 
-This Streamlit application, titled "Sentiment Snack: Bite-Sized Insights into Textual Emotions," allows users to analyze the sentiment and subjectivity of text inputs.
+This Streamlit application is a foundational natural language processing (NLP) project.
+Titled "Sentiment Snack: Bite-Sized Insights into Textual Emotions," allows users to analyze the sentiment and subjectivity of text inputs.
 
 ## Features
 
