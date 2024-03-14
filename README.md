@@ -3,13 +3,16 @@
 
 
 
+<div style="text-align:center">
+    <img src=".devcontainer/sentiments.png" alt="Sentiment Analysis" length="800" width="800" />
+</div>
 
 
 
 
 
 
-<img src=".devcontainer/sentiments.png" alt="Sentiment Analysis" align="center" length="600" width="600"/>
+<img src="" alt="Sentiment Analysis" align="center" />
 
 ## Overview
 
