@@ -1,6 +1,6 @@
 # Sentiment Analysis 
 
-<img src=".devcontainer/sentiments.jpg" alt="Sentiment Analysis" width="200"/>
+<img src=".devcontainer/sentiments.png" alt="Sentiment Analysis" width="200"/>
 
 ## Overview
 
