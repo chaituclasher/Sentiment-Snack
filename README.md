@@ -9,7 +9,7 @@
 
 
 
-<img src=".devcontainer/sentiments.png" alt="Sentiment Analysis" length="2000" width="2000"/>
+<img src=".devcontainer/sentiments.png" alt="Sentiment Analysis" length="1000" width="1000"/>
 
 ## Overview
 
