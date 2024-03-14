@@ -51,3 +51,6 @@ This Streamlit application, titled "Sentiment Snack: Bite-Sized Insights into Te
 4. Open the URL provided in the terminal to access the application.
 5. Use the provided expanders to clean text and analyze sentiment.
 
+## Try it Out!
+
+Give it a try by visiting the [Sentiment Snack](https://sentiment-snack.streamlit.app/)!
