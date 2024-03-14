@@ -1,6 +1,6 @@
 # Sentiment Analysis 
 
-![Sentiment Analysis Icon](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/fish-cake_1f365.png)
+<img src=".devcontainer/sentiments.jpg" alt="Sentiment Analysis" width="200"/>
 
 ## Overview
 
