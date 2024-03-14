@@ -11,7 +11,7 @@
 
 ## Overview
 
-This Streamlit application is a foundational natural language processing (NLP) project.
+This Streamlit application is a foundational natural language processing (NLP) project. <br>
 Titled "Sentiment Snack: Bite-Sized Insights into Textual Emotions," allows users to analyze the sentiment and subjectivity of text inputs.
 
 ## Features
